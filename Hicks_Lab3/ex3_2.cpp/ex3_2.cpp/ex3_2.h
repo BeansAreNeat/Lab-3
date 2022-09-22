@@ -1,11 +1,10 @@
 #pragma once
+#include <iostream>
 #include <string>
 using namespace std;
 
 class Employee
 {
 public:
-
-private:
-	string employee_name, employee_snn;
+	string employee_name, employee_ssn;
 };
